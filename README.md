@@ -3,4 +3,4 @@
 
 Welcome to this project.
 
-[View the project](./parcial/index.html)
+[View the project](./index.html)
